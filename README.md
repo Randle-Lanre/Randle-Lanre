@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-## this is where i prototype concepts and test/learn new things, i love working 
-## on excciting projects born out of a challenge 
+## this is where i prototype concepts and test/learn new things, i love working on excciting projects born out of a challenge 
+
 
 
 
