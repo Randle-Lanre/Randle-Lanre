@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+<p></p>
 
-## this is where i prototype concepts and test/learn new things. I love working on exciting projects born out of a challenge 
+## I love working on exciting projects 
 
+<p></p>
 
-
+<p></p>
 
 
 <a align="center" href=# >
