@@ -5,6 +5,16 @@
 
 
 
+### Stats
+
+![Randle-Lanre's stats](https://github-readme-stats.vercel.app/api?username=Randle-Lanre&count_private=true&show_icons=true)
+
+
+### Top Languages
+
+![Randle-Lanre's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randle-Lanre)
+
+
 
 
 
