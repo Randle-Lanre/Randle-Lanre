@@ -9,7 +9,7 @@
 <p> </p>
 **Languages and Tools:** 
 
-<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/c#.png"> </code>
+<code><img height="30" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/c#.png"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/rider_logo_300x300.png"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/asp-net-core-logo-735x300.png"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/Microsoft_Azure.png"> </code>
