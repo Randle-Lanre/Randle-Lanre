@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<p></p>
+
+
+<p>
+**Languages and Tools:** </p>
 
 
 
-<p></p>
-
-<p> </p>
-**Languages and Tools:** 
+<div style="text-align:center">   
 
 <code><img height="30" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/cSharp.png"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/rider_logo_300x300.png"> </code>
@@ -18,6 +18,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/Dart_logo.png"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/Typescript.png"> </code>
 <code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/flutter.png"> </code>
+
+</div>
+
+
 
 
 
