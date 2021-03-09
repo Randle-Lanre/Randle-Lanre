@@ -2,7 +2,7 @@
 
 <p></p>
 
-## I love working on exciting projects 
+
 
 <p></p>
 
