@@ -6,7 +6,20 @@
 
 <p></p>
 
-<p></p>
+<p> </p>
+**Languages and Tools:** 
+
+<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/c#.jpg"> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/rider_logo_300x300.png"> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/asp-net-core-logo-735x300.png"> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/Microsoft_Azure.png"> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/Heroku.png"> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/angular.png"> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/Dart_logo.png"> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/Typescript.png"> </code>
+<code><img height="20" src="https://raw.githubusercontent.com/Randle-Lanre/Randle-Lanre/master/.github/images/flutter.png"> </code>
+
+
 
 
 <a align="center" href=# >
