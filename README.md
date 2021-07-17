@@ -35,7 +35,7 @@
 
 
 
-
+![](https://activity-graph.herokuapp.com/graph?username=randle-lanre&theme=react-dark&area=true)
 
 
 
