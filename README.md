@@ -29,8 +29,8 @@
     </p>
 </a>
 
-
-<a align="center" href=# >   <p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randle-Lanre&langs_count=7&count_private=true&layout=compact&theme=tokyonight" alt="languages" height="165"/> </p></a>
+<!-- 
+<a align="center" href=# >   <p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randle-Lanre&langs_count=7&count_private=true&layout=compact&theme=tokyonight" alt="languages" height="165"/> </p></a> -->
 
 
 
