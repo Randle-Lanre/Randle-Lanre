@@ -2,7 +2,7 @@
 
 
 
-<p align="center">**Languages and Tools i work with often:** </p>
+<!-- <p align="center">**Languages and Tools i work with often:** </p> -->
 
 
 
