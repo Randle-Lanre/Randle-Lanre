@@ -22,12 +22,12 @@
 
 
 
-
+<!-- 
 <a align="center" href=# >
     <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Randle-Lanre&count_private=true&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>
     </p>
-</a>
+</a> -->
 
 <!-- 
 <a align="center" href=# >   <p align="center">   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randle-Lanre&langs_count=7&count_private=true&layout=compact&theme=tokyonight" alt="languages" height="165"/> </p></a> -->
